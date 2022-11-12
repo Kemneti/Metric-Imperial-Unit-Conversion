@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+}
+#container{
+margin-left:auto;
+margin-right:auto;
+width: 550px;
+height: 729px;
+background: #1F2937;
+}
+.header-background{
+width: 550px;
+height: 285px;
+left: 0px;
+top: 0px;
+
+background: #6943FF;
+}
+.header-Heading{
+width: 448.4px;
+height: 38px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 28px;
+line-height: 38px;
+/* identical to box height, or 136% */
+margin-left:auto;
+margin-right:auto;
+text-align: center;
+letter-spacing: -0.03em;
+
+color: #FFFFFF;
+}
+.header-box{
+    box-sizing: border-box;
+width: 117px;
+height: 83px;
+left: 217px;
+top: 101px;
+margin-left:auto;
+margin-right:auto;
+border: 2px solid #B295FF;
+border-radius: 5px;
+}
+.btn-convert{
+width: 117px;
+height: 42px;
+margin-left:auto;
+margin-right:auto;
+background: #FFFFFF;
+/* shadow/sm */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 5px;
+}
+.dark-mode-body{
+width: 550px;
+height: 729px;
+left: 696px;
+top: 126px;
+
+background: #1F2937;
+}
+
+.Grid-Lists-volume, .Grid-Lists-mass, .Grid-Lists-lenght{
+width: 500px;
+height: 108.57px;
+left: 25px;
+top: 453px;
+background: #273549;
+border-radius: 4.68077px 0px 0px 0px;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:10px
+}
+.para-length, .para-Volume, .para-mass{
+width: 346px;
+height: 25px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 20px;
+/* or 100% */
+margin-top:10px;
+padding-top:30px;
+text-align: center;
+margin-left:auto;
+margin-right:auto;
+color: #CCC1FF;
+}
+.btn-con{
+  text-align: center;
+  margin-top:10px;
+  margin-left:25px;
+  border:none;
+}
+#inputNumber{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 24px;
+background-Color:#6943FF;
+color:#FFFFFF;
+text-align: center;
+
+}
+#header-length,#header-Volume,#header-mass {
+width: 346px;
+height: 25px;
+left: 77px;
+top: 65px;
+
+/* text-sm/leading-5/font-normal */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+margin-left:auto;
+margin-right:auto;
+text-align: center;
+
+color: #FFFFFF; 
+    
+    
+    
+    
+    
+}
